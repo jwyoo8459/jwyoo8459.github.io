@@ -6,7 +6,7 @@ description: >-
 
 
 baseurl: ""
-url: "https://babycheetah.github.io"
+url: "https://jwyoo8459.github.io"
 
 
 # profile 이미지
@@ -14,8 +14,8 @@ profile_image: images/about.jpg
 
 
 # SNS 아이디
-facebook_id: babycheetah
-instagram_id: babycheetah
+# facebook_id: babycheetah 
+instagram_id: jwvv.y0_0
 
 
 # Youtube vid
@@ -25,6 +25,8 @@ youtube_vid: #
 # Custom Color
 primary: 2c98f0 #b72cf0
 primary_hover: 44A4F2 #9a2dc7
+
+# 테크기술 색깔
 color_1: 2c98f0 #b72cf0
 color_2: ec5453
 color_3: f9bf3f
@@ -36,18 +38,18 @@ color_6: 4054b2
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
 - background_url: images/cover_bg_3.jpeg
-  title: 안녕하세요. <br>반갑습니다!</br>
-
+  title: 안녕하세요. <br>반갑습니다!
+  # position : absolute
+  # transform: translate( -50%, -50%)
+  left: 180px
+  bottom: 50px
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img_bg_4.jpg
   title: I am<br>AI Developer
   subtitle: >- 
-    조금은 늦었지만<br>
-    아무것도 몰랐지만<br>
-    무작정 따라하며 성장해온<br>
-    초보 개발자 babycheetah입니다.
+    배움에 열정이 가득한 <br>웹 개발자입니다.
 
 
 # About
